@@ -21,6 +21,16 @@ Ideas for analysis:
         - Or different Marvel story arcs, for instance, spiderman and his stories, antman, the avengers or guardians of the galaxy or dr strange and his universe.
     - Sentiment analysis on the character pages... is the character a villain or a hero? Or neutral?
 
+# Another idea:
+
+- Network of professors
+- Nodes: professors
+- Edges: professors who have collaborated on papers together or cited each other in their work.
+
+Here, see if we can find communities of professors who work in similar fields or have similar research interests.
+Also, use centrality measures to find the most influential professors in the network (those who have many citations or collaborations).
+Sentiment analysis could be done on the abstracts of their papers to see if there are any trends in the tone or sentiment of their research.
+
 
 # Viktor's idea
 
