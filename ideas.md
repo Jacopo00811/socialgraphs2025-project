@@ -20,3 +20,20 @@ Ideas for analysis:
         - Here, we could maybe find characters that belong in different multiverses via the communicites.
         - Or different Marvel story arcs, for instance, spiderman and his stories, antman, the avengers or guardians of the galaxy or dr strange and his universe.
     - Sentiment analysis on the character pages... is the character a villain or a hero? Or neutral?
+
+
+# Viktor's idea
+
+Network of politicians.
+
+nodes: politicians
+
+edges: affiliation, same opinions maybe?
+
+
+Analysis:
+
+- Determine the politicians with the most influence using centrality.
+- Attempt to identify political parties, factions or other alliances using communities.
+- Determine political enemies could be interesting too.
+- If opinions on some topics are included, determine if opinions determine communities
