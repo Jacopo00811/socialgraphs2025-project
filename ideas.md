@@ -13,9 +13,9 @@ https://marvel.fandom.com/wiki/Marvel_Database
 
 Network over the marvel universe characters.
 
-Edges: character
+Nodes: character
 
-Nodes: relationship between characters but this could be friends, family or even enemies.
+Edges: relationship between characters but this could be friends, family or even enemies.
     - If two characters have an edge to each other, this means that they have some kind of relationship - either met in real life, fought together, fought against each other, etc.
     - If only one character has an edge to another, this means that they know of each other but have never met in person - OR they have heard of that character through stories, legends, etc.
 
