@@ -2,6 +2,11 @@
 Music Collaboration + Lyrics
 https://chatgpt.com/s/t_6908d618121c8191a9e517b53e9b43a5
 
+Research objectives:
+- Basis of communities
+- Centrality of artists
+- 
+
 # Lucia's idea (with additions from Viktor)
 
 https://marvel.fandom.com/wiki/Marvel_Database
