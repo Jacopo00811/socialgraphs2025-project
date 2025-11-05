@@ -17,6 +17,18 @@ Research objectives:
 - Correlation between centrality and popularity
 - Identify one hit wonders based on ratio of song popularity and artist popularity
 
+"what is the idea?"
+- The idea is to create a network graph of music artists and their relationships based on what other people who listen to them also listen to. The goal is to analyze the structure of the music industry and identify key players and trends.
+
+"why is it interesting?"
+- This is interesting because it can reveal hidden connections between artists, show how musical genres influence each other, and help identify emerging trends in the music industry? We also look at their popularity on spotify versus how viral they are on tiktok. Can we identify consistantly popular artists versus one hit wonders? Are there any rising stars because they went viral on social media?
+
+"which datasets did you need to explore the idea?"
+- We explore spotify's API to get artist data, related artists, and track popularity. We also use spotify playlists to identify trending songs. For lyrics, we use the Genius API to extract song lyrics for sentiment analysis and thematic exploration.
+
+"how did you download them?"
+- ...
+
 # Lucia's idea (with additions from Viktor)
 
 https://marvel.fandom.com/wiki/Marvel_Database
