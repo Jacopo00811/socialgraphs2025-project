@@ -2,10 +2,20 @@
 Music Collaboration + Lyrics
 https://chatgpt.com/s/t_6908d618121c8191a9e517b53e9b43a5
 
+Nodes: artists
+Edges: Related artists(if it works). Featured artists
+
+node atributes:
+- Popularity
+- Genres
+- top tracks lyrics and popularity
+- If they appear in some playlist(top 50: boolean, tiktok: boolean)
+
 Research objectives:
-- Basis of communities
-- Centrality of artists
-- 
+- Basis of communities(D-matrix)
+- Correlation between popularity on spotify and social media song presence, or vise versa. Also determine if they kept their fame after social media boost(consistency of popularity)
+- Correlation between centrality and popularity
+- Identify one hit wonders based on ratio of song popularity and artist popularity
 
 # Lucia's idea (with additions from Viktor)
 
